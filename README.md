@@ -8,10 +8,10 @@ This is a project to analyse the relationship between customer demographics and 
   * Which month did sales peak
   * The average age of a customer
 
-    #2 Data Understanding
+#2. Data Understanding
     ** Reatail Sales Dataset**
     * Fields; Transaction ID, Date,Customer ID, Gender, Age, Product Category, Quantity, Price Per Unit, Total Amount.
-  #3 Methodology-Excel
+#3. Methodology-Excel
      i. ** Data Cleaning
          *Checked for duplicates and null cells
          *Date Column formatting
