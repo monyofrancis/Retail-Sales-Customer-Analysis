@@ -104,7 +104,7 @@ It demonstrates **end-to-end analytics workflow**:
 
 # 8. Tool; Excel & Tech Flow
 
-* **Data Cleaning
-* **Feature Engineering
-* **Pivot tables 
-* **Visualization
+* *Data Cleaning*
+* *Feature Engineering*
+* *Pivot tables*
+* *Visualization*
